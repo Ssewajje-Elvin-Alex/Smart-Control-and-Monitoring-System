@@ -1,0 +1,7 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/DELL/OneDrive/Desktop/alex.py/temp_alarm_project/temp_alarm_project/build/specs/picolibc.specs"
+-fno-rtti
